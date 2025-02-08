@@ -40,14 +40,8 @@ The dataset used for this project was obtained from the [DevGPT](https://github.
 - **Key Findings:**
   - Common issues include missing docstrings, invalid naming conventions, trailing whitespace, and long lines.
 
-## Results
-### Key Visualizations
-- **Issue Types in RQ1:** Bar chart categorizing the most frequent developer issues.
-- **Prompt Patterns in RQ2:** Word clouds visualizing LDA topics.
-- **Code Quality in RQ6:** Bar chart of the top 10 most frequent errors.
-
-*Figure 1: Top 10 Most Frequent Errors in ChatGPT-Generated Code*
-![Figure 1: Top 10 Most Frequent Errors in ChatGPT-Generated Code](RQ6_visualization.png)
+    *Figure 1: Top 10 Most Frequent Errors in ChatGPT-Generated Code*
+    ![Figure 1: Top 10 Most Frequent Errors in ChatGPT-Generated Code](RQ6_visualization.png)
 
 ## References
 1. [DevGPT Dataset Repository](https://github.com/NAIST-SE/DevGPT) - The primary source of ChatGPT interactions and datasets for this project.
