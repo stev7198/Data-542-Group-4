@@ -45,9 +45,11 @@ The dataset used for this project was obtained from the [DevGPT](https://github.
 
 ## References
 1. [DevGPT Dataset Repository](https://github.com/NAIST-SE/DevGPT) - The primary source of ChatGPT interactions and datasets for this project.
-2. S. Cortinhas, "NLP4: TF-IDF and Document Search," Kaggle, 2025. [Online]. Available: [link](https://www.kaggle.com/code/samuelcortinhas/nlp4-tf-idf-and-document-search).  
-3. ESLint Contributors, "ESLint Rules Reference," [Online]. Available: [link](https://denar90.github.io/eslint.github.io/docs/rules/).  
-4. ShellCheck Developers, "ShellCheck Wiki," [Online]. Available: [link](https://www.shellcheck.net/wiki/).
+2. S. Cortinhas, "NLP4: TF-IDF and Document Search," Kaggle, 2025. [Online]. Available: [link](https://www.kaggle.com/code/samuelcortinhas/nlp4-tf-idf-and-document-search).
+3. S. Cortinhas, "NLP5: Text Classification with Naive Bayes," Kaggle, 2025. [Online]. Available: [link](https://www.kaggle.com/code/samuelcortinhas/nlp5-text-classification-with-naive-bayes) [Accessed: Feb. 6, 2025].
+4. ESLint Contributors, "ESLint Rules Reference," [Online]. Available: [link](https://denar90.github.io/eslint.github.io/docs/rules/).
+5. Pylint Developers, "Pylint Messages Overview," Pylint, 2025. [Online]. Available: [link](https://pylint.readthedocs.io/en/latest/user_guide/messages/messages_overview.html) [Accessed: Feb. 6, 2025].
+6. ShellCheck Developers, "ShellCheck Wiki," [Online]. Available: [link](https://www.shellcheck.net/wiki/).
 
 ## How to Run the Project
 1. Clone the repository:
